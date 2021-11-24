@@ -1,0 +1,223 @@
+docker-cve-2021-41773,https://github.com/ahmad4fifz/docker-cve-2021-41773,Proof-of-Concept for CVE-2021-41773
+cve_feeds,https://github.com/AppThreat/cve_feeds,Download CVE feeds from NVD and GitHub
+PatrowlHearsData,https://github.com/Patrowl/PatrowlHearsData,"Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds"
+PocOrExp_in_Github,https://github.com/ycdxsb/PocOrExp_in_Github,聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID.
+cvelist,https://github.com/CVEProject/cvelist,Pilot program for CVE submission through GitHub
+CVE_2019_11043,https://github.com/hlong12042/CVE_2019_11043,
+CVE-Easy-List,https://github.com/nomi-sec/CVE-Easy-List,👀CVE Simple List
+php-version-audit,https://github.com/lightswitch05/php-version-audit,Audit your PHP version for known CVEs and patches
+threat-broadcast,https://github.com/lyy289065406/threat-broadcast,威胁情报播报
+BotPEASS,https://github.com/carlospolop/BotPEASS,Use this bot to monitor new CVEs containing defined keywords and send alerts to Slack and/or Telegram.
+cve-bin-tool,https://github.com/intel/cve-bin-tool,"This tool scans for a number of common, vulnerable components (openssl, libpng, libxml2, expat and a few others) to let you know if your system includes common libraries with known vulnerabilities."
+nvdcve,https://github.com/olbat/nvdcve,NVD/CVE as JSON files
+cve-ark,https://github.com/goncalor/cve-ark,"All published CVE and their recent changes, ready to be used by humans and machines"
+cvewatch-domain,https://github.com/CarbonRook/cvewatch-domain,Domain objects for CVEWatch
+oxasploits,https://github.com/oxagast/oxasploits,A number of exploits and tools I've written for CVEs accredited to Marshall Whittaker/oxagast
+url-regex-safe,https://github.com/niftylettuce/url-regex-safe,"Regular expression matching for URL's. Maintained, safe, and browser-friendly version of url-regex. Resolves CVE-2020-7661 for Node.js servers."
+cve_monitor,https://github.com/p1ay8y3ar/cve_monitor,Automatic monitor github cve using Github Actions 
+conflucheck,https://github.com/quesodipesto/conflucheck,Python 3 script to identify CVE-2021-26084 via network requests.
+CVE-2021-40154,https://github.com/Xen1thLabs-AE/CVE-2021-40154,POC to test the BootROM vulnerability found in LPC55S69 and K82 Series 
+Metabase_CVE-2021-41277,https://github.com/Vulnmachines/Metabase_CVE-2021-41277,
+Nikola-Cvetic-CV,https://github.com/Cvellle/Nikola-Cvetic-CV,https://cvellle.github.io/Nikola-Cvetic-CV/
+CVE-Automation-Tool-CAT-,https://github.com/worthingtontech/CVE-Automation-Tool-CAT-,script that pulls cve collections from NVD.NIST.GOV. 
+cve-website,https://github.com/CVEProject/cve-website,The new CVE website
+threat-broadcast,https://github.com/Mr-xn/threat-broadcast,威胁情报播报
+Penetration_Testing_POC,https://github.com/Mr-xn/Penetration_Testing_POC,渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms
+CVE-2021-41277,https://github.com/kaizensecurity/CVE-2021-41277,plugin made for LeakiX
+CVE-2020-14066,https://github.com/pinpinsec/CVE-2020-14066,Icewarp Mail Server 12.3.0.1 insecure_permissions
+CVE-2020-14064,https://github.com/pinpinsec/CVE-2020-14064,Icewarp Mail Server 12.3.0.1 incorrect_access_control
+CVE-2020-14065,https://github.com/pinpinsec/CVE-2020-14065,Icewarp Mail Server 12.3.0.1 unlimited_file_upload
+CVE-mitre,https://github.com/nu11secur1ty/CVE-mitre,https://cve.mitre.org/
+rcedit,https://github.com/electron/rcedit,Command line tool to edit resources of exe
+SMBGhost_RCE_PoC,https://github.com/chompie1337/SMBGhost_RCE_PoC,
+redis-rce,https://github.com/Ridter/redis-rce,Redis 4.x/5.x RCE
+rce,https://github.com/rapyuta-robotics/rce,A Cloud Robotics Platform
+thinkphp-RCE-POC-Collection,https://github.com/SkyBlueEternal/thinkphp-RCE-POC-Collection,thinkphp v5.x 远程代码执行漏洞-POC集合
+fastjson_rce_tool,https://github.com/wyzxxz/fastjson_rce_tool,fastjson漏洞检测辅助工具， JNDI服务利用工具 RMI/LDAP，支持部分场景回显，内存shell等
+Windows-RCE-exploits,https://github.com/smgorelik/Windows-RCE-exploits,"The exploit samples database is a repository for **RCE** (remote code execution) exploits and Proof-of-Concepts for **WINDOWS**, the samples are uploaded for education purposes for red and blue teams."
+shiro_rce_tool,https://github.com/wyzxxz/shiro_rce_tool,shiro 反序列 命令执行辅助检测工具
+redis-rogue-server,https://github.com/n0b0dyCN/redis-rogue-server,Redis(<=5.0.5) RCE
+awesome-jenkins-rce-2019,https://github.com/orangetw/awesome-jenkins-rce-2019,"There is no pre-auth RCE in Jenkins since May 2017, but this is the one!"
+SMBGhost,https://github.com/ly4k/SMBGhost,Scanner for CVE-2020-0796 - SMBv3 RCE
+weblogic_cmd,https://github.com/5up3rc/weblogic_cmd,weblogic t3 deserialization rce
+ms-teams-rce,https://github.com/oskarsve/ms-teams-rce,
+CVE-2019-0708,https://github.com/zerosum0x0/CVE-2019-0708,Scanner PoC for CVE-2019-0708 RDP RCE vuln
+Java-Rce-Echo,https://github.com/feihong-cs/Java-Rce-Echo,Java RCE 回显测试代码
+CVE-2020-0796-RCE-POC,https://github.com/ZecOps/CVE-2020-0796-RCE-POC,CVE-2020-0796 Remote Code Execution POC
+cisco-rce,https://github.com/artkond/cisco-rce,CVE-2017-3881 Cisco Catalyst Remote Code Execution PoC
+jenkins-rce,https://github.com/petercunha/jenkins-rce,":smiling_imp: Jenkins RCE PoC. From unauthenticated user to remote code execution, it's a hacker's dream!"
+acunetix_0day,https://github.com/dzonerzy/acunetix_0day,Acunetix 0day RCE
+RCEScanner,https://github.com/mhaskar/RCEScanner,Simple python script to extract unsafe functions from php projects
+TDOA_RCE,https://github.com/xinyu2428/TDOA_RCE,通达OA综合利用工具
+redis-rogue-server,https://github.com/Dliv3/redis-rogue-server,Redis 4.x/5.x RCE
+rce-bug,https://github.com/greekn/rce-bug,新漏洞感知项目 主要帮助大家 记录一些重大漏洞 漏洞方面的细节
+JRE8u20_RCE_Gadget,https://github.com/pwntester/JRE8u20_RCE_Gadget,JRE8u20_RCE_Gadget
+RCEvil.NET,https://github.com/Illuminopi/RCEvil.NET,
+cisco-snmp-rce,https://github.com/artkond/cisco-snmp-rce,Cisco IOS SNMP RCE PoC
+tp5-getshell,https://github.com/theLSA/tp5-getshell,thinkphp5 rce getshell
+ios_15_rce,https://github.com/jonathandata1/ios_15_rce,Remote Code Execution V1 For iOS 15 sent through airdrop after the device was connected to a trusted host
+CVE-2020-2883,https://github.com/Y4er/CVE-2020-2883,Weblogic coherence.jar RCE
+SAP_GW_RCE_exploit,https://github.com/chipik/SAP_GW_RCE_exploit,SAP Gateway RCE exploits
+expbox,https://github.com/0x0021h/expbox,Vulnerability Exploitation Code Collection Repository
+OpenCVexe,https://github.com/Julia-Zhirnova/OpenCVexe,
+CVE-2021-34473-Exchange-ProxyShell,https://github.com/je6k/CVE-2021-34473-Exchange-ProxyShell,对Exchange Proxyshell 做了二次修改，精确的拆分、实现辅助性安全测试。
+CVE_InstallerFileTakeOver,https://github.com/devopscoder331/CVE_InstallerFileTakeOver,
+CVE-2020-0787,https://github.com/yanghaoi/CVE-2020-0787,CVE-2020-0787的简单回显
+CVE-nu11secur1ty,https://github.com/nu11secur1ty/CVE-nu11secur1ty,
+CVE-2021-36260,https://github.com/rabbitsafe/CVE-2021-36260,CVE-2021-36260
+CVE-2021-3129,https://github.com/simonlee-hello/CVE-2021-3129,CVE-2021-3129-Laravel Debug mode 远程代码执行漏洞
+dependency-check-jira,https://github.com/reload/dependency-check-jira,Run dependency-check and create Jira issues for new CVEs found
+Medusa,https://github.com/Ascotbe/Medusa,:cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件等功能，持续开发中 
+IOT_CVE,https://github.com/peanuts62/IOT_CVE,poc of ImageMagick hangs
+CVE-2021-42321,https://github.com/DarkSprings/CVE-2021-42321,Microsoft Exchange Server Poc
+CVE-2021-41277,https://github.com/z3n70/CVE-2021-41277,simple program for exploit metabase
+cve-extraction,https://github.com/frankzhu2003/cve-extraction,
+cve-services,https://github.com/CVEProject/cve-services,This repo contains the source for the CVE Services API.
+cve-schema,https://github.com/CVEProject/cve-schema,This repository is used for the development of the CVE JSON record format. Releases of the CVE JSON record format will also be published here. This repository is managed by the CVE Quality Working Group.
+k8s-CVE-2021-43557-poc,https://github.com/xvnpw/k8s-CVE-2021-43557-poc,PoC for CVE-2021-43557
+Nikola-Cvetic---Sites-and-Apps,https://github.com/Cvellle/Nikola-Cvetic---Sites-and-Apps,https://cvellle.github.io/Nikola-Cvetic---Sites-and-Apps/
+CVES_RA,https://github.com/prajwal2495/CVES_RA,
+CVE-2021-22053,https://github.com/Vulnmachines/CVE-2021-22053, CVE-2021-22053: Spring Cloud Netflix Hystrix Dashboard template resolution vulnerability
+zerologon,https://github.com/sho-luv/zerologon,Zerologon Check and Exploit - Discovered by Tom Tervoort of Secura and expanded on @Dirkjanm's cve-2020-1472 coded example. This tool will check and exploit bug as well as restore password to original state
+CVE-2021-3156,https://github.com/musergi/CVE-2021-3156,
+trivy-my-debian,https://github.com/factorysh/trivy-my-debian,Debian loves patching CVE
+Cventura,https://github.com/Diegoglo/Cventura,
+THM-Vulnerability_Capstone-CVE-2018-16763,https://github.com/SlizBinksman/THM-Vulnerability_Capstone-CVE-2018-16763,A write up on the THM room Vulnerability Capstone & Exploit script for CVE-2018-16763.
+my_vuln,https://github.com/pjqwudi/my_vuln,CVE
+CVE-2021-40531,https://github.com/jonpalmisc/CVE-2021-40531,"A demo of exploiting CVE-2021-40531, a vulnerability in Sketch."
+cveinnt.ml,https://github.com/Cveinnt/cveinnt.ml,My minimalist personal website
+CVE-2021-40444,https://github.com/Alexcot25051999/CVE-2021-40444,
+cvela91,https://github.com/cvela91/cvela91,Config files for my GitHub profile.
+CVE-2021-41277,https://github.com/kap1ush0n/CVE-2021-41277,MetaBase 任意文件读取漏洞 fofa批量poc
+CVE-2021-43617,https://github.com/kombat1/CVE-2021-43617,CVE-2021-43617 bypass CRF
+MetaAutoML-Adapter-AutoCVE,https://github.com/hochschule-darmstadt/MetaAutoML-Adapter-AutoCVE,
+cvety.kz,https://github.com/acrysense/cvety.kz,
+CVE-2021-41277,https://github.com/Seals6/CVE-2021-41277,Metabase任意文件读取漏洞批量扫描工具
+Goby,https://github.com/gobysec/Goby,Attack surface mapping
+CVEpamCourse,https://github.com/MaksimKrug/CVEpamCourse,
+cve_bot,https://github.com/weastur/cve_bot,Telegram bot to follow update on CVE for Debian packages
+CVE-2021-21315,https://github.com/Ki11i0n4ir3/CVE-2021-21315,rust noob tried write exploit code with rust lang
+CVE-PoC,https://github.com/HxDDD/CVE-PoC,CVE PoC
+cve,https://github.com/mahn-don/cve,
+Metabase-cve-2021-41277,https://github.com/Henry4E36/Metabase-cve-2021-41277, Metabase 任意文件读取
+cveml,https://github.com/adamiaonr/cveml,Small embedded ML projects developed for the Computer Vision with Embedded Machine Learning course
+wprecon,https://github.com/blackcrw/wprecon,The official wprecon repository
+Cybersecurity-Notes,https://github.com/Twigonometry/Cybersecurity-Notes,My Markdown notes for all things cybersecurity
+CVE_24678_PS7,https://github.com/Yolnan/CVE_24678_PS7,
+final-project-capture-packet-cve,https://github.com/theweezar/final-project-capture-packet-cve,
+cve-results,https://github.com/sakoman/cve-results,CVE test results for Yocto master and dunfell branches
+cvety2,https://github.com/kinoafisharu/cvety2,
+CVE-2021-41277,https://github.com/tahtaciburak/CVE-2021-41277,
+PocList,https://github.com/Sma11New/PocList,漏洞POC、EXP合集，持续更新。Apache Druid-任意文件读取（CVE-2021-36749）、ConfluenceRCE（CVE-2021-26084）、ZeroShell防火墙RCE（CVE-2019-12725）、ApacheSolr任意文件读取、蓝凌OA任意文件读取、phpStudyRCE、ShowDoc任意文件上传、原创先锋后台未授权、Kyan账号密码泄露、TerraMasterTos任意文件读取、TamronOS-IPTV系统RCE、Wayos防火墙账号密码泄露
+apache_druid_CVE-2021-36749,https://github.com/zwlsix/apache_druid_CVE-2021-36749,CVE-2021-36749     Docker      漏洞复现
+spring-cloud-netflix-hystrix-dashboard-cve-2021-22053,https://github.com/SecCoder-Security-Lab/spring-cloud-netflix-hystrix-dashboard-cve-2021-22053,Spring Cloud Netflix Hystrix Dashboard template resolution vulnerability CVE-2021-22053
+cvEngineerAhang,https://github.com/cvEngineerAhang/cvEngineerAhang,Config files for my GitHub profile.
+cvertee,https://github.com/cvertee/cvertee,
+cve-demo-2020-8287,https://github.com/ypl6/cve-demo-2020-8287,
+CVE_Crawler,https://github.com/Arsham1024/CVE_Crawler,Crawl MS numbers and CVEs from 2015 -2016
+HellRaiser,https://github.com/m0nad/HellRaiser,Vulnerability scanner using Nmap for scanning and correlating found CPEs with CVEs.
+Writeups,https://github.com/evyatar9/Writeups,This repository contains writeups for various CTFs I've participated in (Including Hack The Box).
+VulnerabilityClassifier,https://github.com/Yuning-J/VulnerabilityClassifier,Severity scoring and exploit categorisation for vulnerability reports using machine-learning tools. 
+cvemon,https://github.com/ARPSyndicate/cvemon,Monitoring exploits & references for CVEs
+kernel-security-learning,https://github.com/bsauce/kernel-security-learning,"Anything about kernel security.  CTF kernel pwn, kernel exploit, kernel fuzz and kernel defense paper, kernel debugging technique, kernel CVE debug."
+cve_project,https://github.com/BaeHyeongYeon/cve_project,
+lwCVer,https://github.com/lwCVer/lwCVer,Config files for my GitHub profile.
+cmu-cve,https://github.com/nefario7/cmu-cve,Repository for CMU course Computer Vision for Engineers
+Github-CVE-Listener,https://github.com/Kira-Pgr/Github-CVE-Listener,Get latest GitHub CVE EXP/POC repos and send to WeChat (GitHub Actions)
+cvece-srece,https://github.com/Vuk1975/cvece-srece,
+externalip-webhook,https://github.com/rancher/externalip-webhook,CVE-2020-8554: Man in the middle using LoadBalancer or ExternalIPs
+patches,https://github.com/usr2r00t/patches,Some Linux vulnerabilities paches
+bidi_char_detector,https://github.com/maweil/bidi_char_detector,Checks your files for existence of Unicode BIDI characters which can be misused for supply chain attacks. See CVE-2021-42574 
+CVE-2020-17144-EXP,https://github.com/Airboi/CVE-2020-17144-EXP,Exchange2010 authorized RCE
+fastjson-1.2.47-RCE,https://github.com/CaijiOrz/fastjson-1.2.47-RCE,Fastjson <= 1.2.47 远程命令执行漏洞利用工具及方法
+jackson-rce-via-spel,https://github.com/irsl/jackson-rce-via-spel,An example project that exploits the default typing issue in Jackson-databind via Spring application contexts and expressions
+SIGRed_RCE_PoC,https://github.com/chompie1337/SIGRed_RCE_PoC,
+node-rcedit,https://github.com/electron/node-rcedit,Node module to edit resources of exe
+RCE-Exploit-in-BIG-IP,https://github.com/h4x0r-dz/RCE-Exploit-in-BIG-IP,
+Apache-Solr-RCE,https://github.com/Imanfeng/Apache-Solr-RCE,Apache Solr Exploits  🌟
+CVE-2021-3129,https://github.com/SNCKER/CVE-2021-3129,Laravel debug rce
+samsung-ime-rce-poc,https://github.com/nowsecure/samsung-ime-rce-poc,Samsung Remote Code Execution as System User
+cve-2019-1003000-jenkins-rce-poc,https://github.com/adamyordan/cve-2019-1003000-jenkins-rce-poc,"Jenkins RCE Proof-of-Concept: SECURITY-1266 / CVE-2019-1003000 (Script Security), CVE-2019-1003001 (Pipeline: Groovy), CVE-2019-1003002 (Pipeline: Declarative)"
+PocList,https://github.com/Yang0615777/PocList,Alibaba-Nacos-Unauthorized/ApacheDruid-RCE_CVE-2021-25646/MS-Exchange-SSRF-CVE-2021-26885/Oracle-WebLogic-CVE-2021-2109_RCE/RG-CNVD-2021-14536/RJ-SSL-VPN-UltraVires/Redis-Unauthorized-RCE/TDOA-V11.7-GetOnlineCookie/VMware-vCenter-GetAnyFile/yongyou-GRP-U8-XXE/Oracle-WebLogic-CVE-2020-14883/Oracle-WebLogic-CVE-2020-14882/Apache-Solr-GetAnyFile/F5-BIG-IP-CVE-2021-22986/Sonicwall-SSL-VPN-RCE/GitLab-Graphql-CNVD-2021-14193/D-Link-DCS-CVE-2020-25078/WLAN-AP-WEA453e-RCE/360TianQing-Unauthorized/360TianQing-SQLinjection/FanWeiOA-V8-SQLinjection/QiZhiBaoLeiJi-AnyUserLogin/QiAnXin-WangKangFirewall-RCE/金山-V8-终端安全系统/NCCloud-SQLinjection/ShowDoc-RCE
+CVE-2019-11043,https://github.com/jas502n/CVE-2019-11043,php-fpm+Nginx RCE
+CVE-2018-7600-Drupal-RCE,https://github.com/g0rx/CVE-2018-7600-Drupal-RCE,CVE-2018-7600 Drupal RCE
+cve_2019_0708_bluekeep_rce,https://github.com/NAXG/cve_2019_0708_bluekeep_rce,bluekeep exploit
+CVE-2019-3396_EXP,https://github.com/Yt1g3r/CVE-2019-3396_EXP,CVE-2019-3396 confluence SSTI RCE
+struts2-rce,https://github.com/Iletee/struts2-rce,Exploitable target to CVE-2017-5638
+CVE-2021-40444,https://github.com/klezVirus/CVE-2021-40444,CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit
+Spring-Boot-Actuator-Exploit,https://github.com/mpgn/Spring-Boot-Actuator-Exploit,Spring Boot Actuator (jolokia) XXE/RCE
+Umbraco-RCE,https://github.com/noraj/Umbraco-RCE,Umbraco CMS 7.12.4 - (Authenticated) Remote Code Execution
+burplugin-java-rce,https://github.com/bigsizeme/burplugin-java-rce,******本软件仅限用于学习交流禁止用于任何非法行为****** 本版本支持elasticsearch java语言远程命令执行及文件上传 elasticsearchgroov语言远程命令执行及文件上传 struts2-005、struts2-009、struts2-013、struts2-016、struts2-019、struts2-020、struts2-devmode、 struts2-032、struts2-033、struts2-037、struts2-045、struts2-048、struts2-052 除struts2-053全部RCE漏洞验证并支持批量验证。 Struts2漏洞验证需要python环境并需要相关类库支持.点击python按钮初始化初始化python类库  如果初始化失败请按照如下步骤安装类库， 1、执行 $[python]/Scrips/easy_install pip 2、requests模块 安装方法 pip install requests 3、termcolor模块安装方法： pip install termcolor     github: https://github.com/bigsizeme/java-rce-tools burpsuite源码地址：https://github.com/bigsizeme/burplugin-java-rce
+CVE-2019-0193,https://github.com/jas502n/CVE-2019-0193,Apache Solr DataImport Handler RCE
+RCE-0-day-for-GhostScript-9.50,https://github.com/duc-nt/RCE-0-day-for-GhostScript-9.50,RCE 0-day for GhostScript 9.50 - Payload generator
+shiro_rce_exp,https://github.com/wuppp/shiro_rce_exp,Shiro RCE (Padding Oracle Attack)
+CoreMailUploadRce,https://github.com/jimoyong/CoreMailUploadRce,Coremail任意文件上传漏洞POC
+gitlab_RCE,https://github.com/dotPY-hax/gitlab_RCE,RCE for old gitlab version <= 11.4.7 & 12.4.0-12.8.1 and LFI for old gitlab versions 10.4 - 12.8.1
+ThinkphpRCE,https://github.com/sukabuliet/ThinkphpRCE,Thinkphp  rce扫描脚本，附带日志扫描
+rce,https://github.com/rcenvironment/rce,"Distributed, workflow-driven integration environment"
+OA-tongda-RCE,https://github.com/jas502n/OA-tongda-RCE,Office Anywhere网络智能办公系统
+WhatsRCE,https://github.com/KeepWannabe/WhatsRCE,This is a Automated Generate Payload for CVE-2019-11932 (WhatsApp Remote Code Execution)
+CVE-2019-0604,https://github.com/k8gege/CVE-2019-0604,cve-2019-0604 SharePoint RCE exploit
+rce-agent,https://github.com/square/rce-agent,gRPC-based Remote Command Execution Agent
+Axis-1.4-RCE-Poc,https://github.com/justforfunya/Axis-1.4-RCE-Poc,Axis <=1.4   远程命令执行（RCE） POC
+Remote-Desktop-Services-Remote-Code-Execution-Vulnerability-CVE-2019-0708-,https://github.com/dorkerdevil/Remote-Desktop-Services-Remote-Code-Execution-Vulnerability-CVE-2019-0708-,"rce exploit , made to work with pocsuite3"
+Gopherus,https://github.com/tarunkant/Gopherus,This tool generates gopher link for exploiting SSRF and gaining RCE in various servers
+medfusion-4000-research,https://github.com/sgayou/medfusion-4000-research,Medfusion 4000 security research & a MQX RCE.
+CVE-2020-2555,https://github.com/Y4er/CVE-2020-2555,Weblogic com.tangosol.util.extractor.ReflectionExtractor RCE
+fastjson-rce-exploit,https://github.com/MagicZer0/fastjson-rce-exploit,exploit for fastjson remote code execution vulnerability
+Rails-doubletap-RCE,https://github.com/mpgn/Rails-doubletap-RCE,RCE on Rails 5.2.2 using a path traversal (CVE-2019-5418) and a deserialization of Ruby objects (CVE-2019-5420)
+solr_rce,https://github.com/jas502n/solr_rce,Apache Solr RCE via Velocity template
+pwn_jenkins,https://github.com/gquere/pwn_jenkins,Notes about attacking Jenkins servers
+Redis-RCE,https://github.com/jas502n/Redis-RCE,remote code execute for redis4 and redis5
+GAE-RCE,https://github.com/ezequielpereira/GAE-RCE,Google App Engine - Remote Code Execution bug ($36k bug bounty)
+discuz-ml-rce,https://github.com/theLSA/discuz-ml-rce,discuz ml rce
+Dell-Support-Assist-RCE-PoC,https://github.com/D4stiny/Dell-Support-Assist-RCE-PoC,
+CVE-2021-22205,https://github.com/Al1ex/CVE-2021-22205,CVE-2021-22205& GitLab CE/EE RCE
+CVE-2018-1270,https://github.com/CaledoniaProject/CVE-2018-1270,Spring messaging STOMP protocol RCE
+tongda_rce,https://github.com/fuhei/tongda_rce,通达OA RCE漏洞
+Struts2-RCE,https://github.com/prakharathreya/Struts2-RCE,A Burp Extender for checking for struts 2 RCE vulnerabilities.
+gitlab-SSRF-redis-RCE,https://github.com/jas502n/gitlab-SSRF-redis-RCE,GitLab 11.4.7 SSRF配合redis远程执行代码
+Bypass-PHP-GD-Process-To-RCE,https://github.com/RickGray/Bypass-PHP-GD-Process-To-RCE,Reference: http://www.secgeek.net/bookfresh-vulnerability/
+rce-over-spark,https://github.com/aRe00t/rce-over-spark,Remote Command Execution Over Spark
+Joomla-3.4.6-RCE,https://github.com/momika233/Joomla-3.4.6-RCE,Joomla 3.4.6 – Remote Code Execution
+weblogic_rce,https://github.com/FlyfishSec/weblogic_rce,cve2019_2725、CNVD-C-2019-48814 Weblogic _async remote command execution exp
+CVE-2019-11510-1,https://github.com/jas502n/CVE-2019-11510-1,SSL VPN Rce
+rusty_joomla_rce,https://github.com/kiks7/rusty_joomla_rce,Rusty Joomla RCE Exploit
+thinkphp_rce_poc,https://github.com/Simon0105/thinkphp_rce_poc,thinkphp_rce_poc
+kibana-RCE,https://github.com/jas502n/kibana-RCE,"kibana < 6.6.0 未授权远程代码命令执行 (Need Timelion And Canvas),CVE-2019-7609"
+one_gadget,https://github.com/david942j/one_gadget,The best tool for finding one gadget RCE in libc.so.6
+CVE-2021-22205,https://github.com/r0eXpeR/CVE-2021-22205,CVE-2021-22205 Unauthorized RCE
+fastjson-RCE,https://github.com/jas502n/fastjson-RCE,fastjson-1.2.47
+Jackson-databind-RCE-PoC,https://github.com/shengqi158/Jackson-databind-RCE-PoC,
+CVE2020-0796,https://github.com/claroty/CVE2020-0796,CVE2020-0796 SMBv3 RCE
+CVE-2018-7600,https://github.com/FireFart/CVE-2018-7600,CVE-2018-7600 - Drupal 7.x RCE
+CVE-2020-2551,https://github.com/jas502n/CVE-2020-2551,Weblogic RCE with IIOP
+whatsapp_rce,https://github.com/TinToSer/whatsapp_rce,whatsapp remote code execution
+CVE-2019-3396,https://github.com/jas502n/CVE-2019-3396,Confluence 未授权 RCE (CVE-2019-3396) 漏洞
+shiro_rememberMe_Rce,https://github.com/admintony/shiro_rememberMe_Rce,利用长亭xray高级版的回显Gadget重写的一个shiro反序列化利用工具。
+Shiro-721,https://github.com/inspiringz/Shiro-721,Shiro-721 RCE Via RememberMe Padding Oracle Attack 
+struts-rce-cve-2017-9805,https://github.com/luc10/struts-rce-cve-2017-9805,CVE 2017-9805
+CVE-2019-11581,https://github.com/jas502n/CVE-2019-11581,Atlassian JIRA Template injection vulnerability RCE
+CVE-2021-41277-,https://github.com/TheLastVvV/CVE-2021-41277-,Metabase GeoJSON map local file inclusion
+CVE-2021-41277,https://github.com/TheLastVvV/CVE-2021-41277,Metabase GeoJSON map local file inclusion
+CVE-2019-12384,https://github.com/jas502n/CVE-2019-12384,Jackson Rce For CVE-2019-12384 
+cver,https://github.com/Hope-y0909/cver,python_opencv
+CVE-2021-20837,https://github.com/oxctdev/CVE-2021-20837,XMLRPC  - RCE in MovableTypePoC
+CVE-2021-37580,https://github.com/Wing-song/CVE-2021-37580, Apache ShenYu 管理员认证绕过  
+CveXplore,https://github.com/cve-search/CveXplore,CveXplore
+fabric8-analytics-vscode-extension,https://github.com/fabric8-analytics/fabric8-analytics-vscode-extension,Red Hat Dependency Analytics extension
+CVE-2021-37580,https://github.com/Liang2580/CVE-2021-37580,CVE-2021-37580
+CVE-2021-37580,https://github.com/ZororoZ/CVE-2021-37580,
+CVE,https://github.com/cucjackque/CVE,CVE  vulnerabilities
+cvezist1,https://github.com/cvezist1/cvezist1,Config files for my GitHub profile.
+cve,https://github.com/trungtin1998/cve,PoC CVE
+CVE-2019-3396,https://github.com/pyn3rd/CVE-2019-3396,Confluence Widget Connector RCE
+cvetko-3.0,https://github.com/tevzselcan/cvetko-3.0,Discord bot Cvetko for RoyalMC Discord server.
+cve-test,https://github.com/zed-zx/cve-test,
+SpringBoot_Actuator_RCE,https://github.com/jas502n/SpringBoot_Actuator_RCE,SpringBoot_Actuator_RCE
+sauron,https://github.com/freenowtech/sauron,"Sauron, the all seeing eye! It is a service to generate automated reports and track migrations, changes and dependency versions for backend services also report on known CVE and security issues."
+CVEScannerV2DB,https://github.com/scmanjarrez/CVEScannerV2DB,Semiupdated database of CVEScannerV2
+CVEScannerV2,https://github.com/scmanjarrez/CVEScannerV2,Nmap script that searches for probable vulnerabilities based on services discovered in open ports. 
+cvetochek72,https://github.com/cvetochek72/cvetochek72,
+PoC-CVE-2021-41773,https://github.com/iilegacyyii/PoC-CVE-2021-41773,
+CVEN,https://github.com/Matteo-ElGuetibi/CVEN,
