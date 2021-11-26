@@ -221,3 +221,49 @@ CVEScannerV2,https://github.com/scmanjarrez/CVEScannerV2,Nmap script that search
 cvetochek72,https://github.com/cvetochek72/cvetochek72,
 PoC-CVE-2021-41773,https://github.com/iilegacyyii/PoC-CVE-2021-41773,
 CVEN,https://github.com/Matteo-ElGuetibi/CVEN,
+cve-search,https://github.com/cve-search/cve-search,cve-search - a tool to perform local searches for known vulnerabilities
+owasp-depscan-nvd-manager,https://github.com/Unidata/owasp-depscan-nvd-manager,A simple gradle project to bootstrap and maintain a local CVE database on our Jenkins server to be shared amongst the Java projects which use the OWASP dependency-check-gradle.
+MyExploits,https://github.com/hansmach1ne/MyExploits,Vulnerabilities found along the way
+PatrowlHears,https://github.com/Patrowl/PatrowlHears,PatrowlHears - Vulnerability Intelligence Center / Exploits
+vulnerablecode,https://github.com/nexB/vulnerablecode,A work-in-progress towards a free and open vulnerabilities database and the packages they impact. And the tools to aggregate and correlate these vulnerabilities. Sponsored by NLnet https://nlnet.nl/project/vulnerabilitydatabase/ for https://www.aboutcode.org/ Chat at https://gitter.im/aboutcode-org/vulnerablecode 
+CVE-2021-44217,https://github.com/Hyperkopite/CVE-2021-44217,
+Kernelhub,https://github.com/Ascotbe/Kernelhub,":palm_tree:Windows Kernel privilege escalation vulnerability collection, with compilation environment, demo GIF map, vulnerability details, executable file  (Windows提权漏洞合集) "
+cvepets,https://github.com/maxproske/cvepets,
+Kernel_Patches,https://github.com/Divested-Mobile/Kernel_Patches,"See Kernel_CVE_Patch_List.txt, it is buried in here somewhere"
+cve,https://github.com/SEEKERXC/cve,cve检测相关脚本
+CVE-loan-prediction,https://github.com/raghavasai106/CVE-loan-prediction,
+CVE-2019-0708,https://github.com/lisinan988/CVE-2019-0708,
+Server-2012---RCE,https://github.com/momika233/Server-2012---RCE,server2012-Group-policy-RCE
+CVE-2021-22005,https://github.com/r0ckysec/CVE-2021-22005,CVE-2021-22005 - VMWare vCenter Server File Upload to RCE
+SHIRO-721,https://github.com/jas502n/SHIRO-721,RememberMe Padding Oracle Vulnerability RCE
+kubelet-anon-rce,https://github.com/serain/kubelet-anon-rce,Executes commands in a container on a kubelet endpoint that allows anonymous authentication (default)
+CVE-2019-7609,https://github.com/LandGrey/CVE-2019-7609,exploit CVE-2019-7609(kibana RCE) on right way by python2 scripts
+CVE-2020-0618,https://github.com/euphrat1ca/CVE-2020-0618,SQL Server Reporting Services(CVE-2020-0618)中的RCE
+RCE_Lab,https://github.com/apuromafo/RCE_Lab,Crackmes Keygenmes Serialmes y más
+spring-boot-upload-file-lead-to-rce-tricks,https://github.com/LandGrey/spring-boot-upload-file-lead-to-rce-tricks,spring boot Fat Jar 任意写文件漏洞到稳定 RCE 利用技巧
+CVE-2021-24086,https://github.com/lisinan988/CVE-2021-24086,
+CVE-2017-11882,https://github.com/lisinan988/CVE-2017-11882,
+CVE-2018-8174,https://github.com/lisinan988/CVE-2018-8174,
+CVE-2019-0708-scan,https://github.com/lisinan988/CVE-2019-0708-scan,
+CVE-2021-40444-exp,https://github.com/lisinan988/CVE-2021-40444-exp,
+CVE-2020-0796-exp,https://github.com/lisinan988/CVE-2020-0796-exp,
+CVE-2018-8174-exp,https://github.com/lisinan988/CVE-2018-8174-exp,
+CVE-2017-11882-exp,https://github.com/lisinan988/CVE-2017-11882-exp,
+CVE-2021-24086-exp,https://github.com/lisinan988/CVE-2021-24086-exp,
+CVE-2021-41773,https://github.com/ahmad4fifz/CVE-2021-41773,Proof-of-Concept for CVE-2021-41773
+CVE-2021-41773,https://github.com/ahmad4fifz/CVE-2021-41773,CVE-2021-41773 on Docker
+CVE-2021-21972,https://github.com/NS-Sp4ce/CVE-2021-21972,CVE-2021-21972 Exploit
+cve-2021-41773,https://github.com/walnutsecurity/cve-2021-41773,cve-2021-41773.py is a python script that will help in finding Path Traversal or Remote Code Execution vulnerability in Apache 2.4.49
+cve-2021-42013,https://github.com/walnutsecurity/cve-2021-42013,cve-2021-42013.py is a python script that will help in finding Path Traversal or Remote Code Execution vulnerability in Apache 2.4.50
+CVE-2021-42013,https://github.com/ahmad4fifz/CVE-2021-42013,
+CVex,https://github.com/ArtashMardoyan/CVex,
+CVE-2021-42013,https://github.com/ahmad4fifz/CVE-2021-42013,CVE-2021-41773 on Docker
+CVE-2021-22205,https://github.com/ahmad4fifz/CVE-2021-22205,CVE-2021-22205 on Docker
+exploits,https://github.com/bugbounty-site/exploits,Repo that will contain variety of exploits for either public CVE or internal research.
+Router-Vulnerability-Scan-Tool,https://github.com/peace27-96/Router-Vulnerability-Scan-Tool,Tool able to check the security level of a router. Check if the router is vulnerable to DNS rebinding and if there are any known CVEs or exploits.
+unicode-control-characters-action,https://github.com/pierDipi/unicode-control-characters-action,"A GitHub Action to find Unicode control characters using the Red Hat diagnostic tool https://access.redhat.com/security/vulnerabilities/RHSB-2021-007 to detect RHSB-2021-007 Trojan source attacks (CVE-2021-42574,CVE-2021-42694)"
+Golang-CVE-2021-22205-POC,https://github.com/pizza-power/Golang-CVE-2021-22205-POC,A CVE-2021-22205 Gitlab RCE POC written in Golang
+CVE-2020-0133-packages_apps_Settings,https://github.com/Nivaskumark/CVE-2020-0133-packages_apps_Settings,
+CVE,https://github.com/DoTuan1/CVE,
+CVE-2020-0133-packages_apps_Settings_nopatch,https://github.com/Nivaskumark/CVE-2020-0133-packages_apps_Settings_nopatch,
+-CVE-2020-0133-packages_apps_Settings,https://github.com/Nivaskumark/-CVE-2020-0133-packages_apps_Settings,
